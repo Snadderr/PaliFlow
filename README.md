@@ -42,7 +42,7 @@ setup.sh
 ```bash
 bash setup.sh
 huggingface-cli login                       # accept Gemma 2 27B license first
-python preprocess.py                        # one-time, ~24h on A100 80GB
+python preprocess.py                        # one-time, ~couple hours on A100 80GB
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 ```
 
