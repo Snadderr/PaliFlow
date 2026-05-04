@@ -7,7 +7,7 @@ A two-pass vision-language pipeline and Streamlit GUI for evaluating analyst tru
 Each image flows through three phases, all cached to disk after the first run:
 
 - **Phase 0 — Metadata**: EXIF extraction and OCR (`pipeline/phase0_metadata.py`)
-- **Phase 1 — Detection**: Fine-tuned PaliGemma 2 (`Snadderr/paligemma-10b-896-military`) detects military assets (Tank, Soldier, Military Vehicle, Aircraft) and produces bounding boxes plus per-class attention heatmaps (`pipeline/phase1_detection.py`)
+- **Phase 1 — Detection**: Fine-tuned PaliGemma 2 (`Snadderr/paligemma-10b-896-military`) detects military assets (Tank, Soldier, Aircraft) and produces bounding boxes plus per-class attention heatmaps (`pipeline/phase1_detection.py`)
 - **Phase 2 — Reasoning**: Gemma 2 27B (4-bit quantized) generates a textual threat justification conditioned on Phase 0 + 1 outputs (`pipeline/phase2_reasoning.py`)
 
 ## Study GUI (`app.py`)
@@ -18,7 +18,7 @@ A Streamlit application that runs a 6-group counter-balanced within-subject stud
 - **B** — A + visual saliency (bounding box + attention heatmap)
 - **C** — B + textual justification
 
-Per-image ratings and post-round/post-experiment Likert surveys are written to `results/` and (optionally) backed up to Google Sheets and a private GitHub repo via `st.secrets`.
+Per-image ratings and post-round/post-experiment Likert surveys are written to `results/` and (optionally) backed up to Google Sheets and a private GitHub repo
 
 ## Layout
 
