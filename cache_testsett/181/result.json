@@ -1,0 +1,32 @@
+{
+  "image_idx": 181,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        176,
+        24,
+        698,
+        892
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.6123,
+    "gps_lon": 38.1145,
+    "country": "Ukraine",
+    "timestamp": "2023-11-25T13:40:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "Zenmuse H20T"
+  },
+  "ocr_text": "\u0411\u0410\u0420\u041a\u0410\u0421 (Barkas - Unit designation)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle, and the visible text '\u0411\u0410\u0420\u041a\u0410\u0421' suggests a unit designation, further indicating military affiliation. The tank appears to be damaged, potentially indicating recent combat activity. The presence of a military asset in an active conflict zone warrants a high threat score."
+}

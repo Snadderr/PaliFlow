@@ -1,0 +1,32 @@
+{
+  "image_idx": 57,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        418,
+        384,
+        474,
+        458
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.6012,
+    "gps_lon": 37.9541,
+    "country": "Ukraine",
+    "timestamp": "2023-11-05T09:20:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "Zenmuse H20T"
+  },
+  "ocr_text": "18+; T-72 \"\u041a\u041e\u041d\u0406\u0412\u041d\u0418\u041a\" (T-72 \"Groom/Horseman\"); T-72 \"\u0421\u041e\u041a\u0406\u041b\" (T-72 \"Falcon\"); \u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade); \u0427\u0410\u041c\u041e-82 (CHAMO-82)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts two tanks operating in a field. Tanks are inherently military assets, indicating potential for offensive or defensive military operations. The presence of unit designations (54th Separate Mechanized Brigade, K-2 Battalion) further confirms a military context. The location within Ukraine, combined with the timestamp, suggests activity related to the ongoing conflict."
+}

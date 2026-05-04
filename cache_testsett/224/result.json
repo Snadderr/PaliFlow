@@ -1,0 +1,227 @@
+{
+  "image_idx": 224,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        832,
+        28,
+        884,
+        94
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        791,
+        100,
+        838,
+        164
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        430,
+        290,
+        474,
+        360
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        565,
+        368,
+        607,
+        441
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        523,
+        441,
+        565,
+        518
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        341,
+        434,
+        386,
+        511
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        22,
+        385,
+        64,
+        454
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        383,
+        357,
+        427,
+        434
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        299,
+        508,
+        341,
+        581
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        394,
+        672,
+        430,
+        742
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        350,
+        752,
+        390,
+        820
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        296,
+        812,
+        334,
+        886
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        187,
+        705,
+        229,
+        770
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        139,
+        634,
+        183,
+        692
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        58,
+        466,
+        101,
+        539
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        103,
+        570,
+        139,
+        620
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 51.4822,
+    "gps_lon": 46.2116,
+    "country": "Russia",
+    "timestamp": "2023-08-05T13:00:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-3"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts multiple military aircraft parked on an airfield. The presence of 16 aircraft, combined with the airfield environment, indicates a potential for military operations or readiness. The location within Russia further supports a threat assessment. While the specific type of aircraft is unknown, their presence alone constitutes a military activity."
+}

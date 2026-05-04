@@ -1,0 +1,22 @@
+{
+  "exif": null,
+  "ocr_text": null,
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        400,
+        452,
+        439,
+        490
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

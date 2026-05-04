@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Cache and results
+cache_testsett/
+cache/
+results/
+
+# Logs
+*.log
+
+# Data
+Military-4/
+huggingface/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Notebooks (use cleaned version in training/)
+*.ipynb
+!training/*.ipynb
+
+# Claude Code
+.claude/

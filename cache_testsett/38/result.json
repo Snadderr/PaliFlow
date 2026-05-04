@@ -1,0 +1,32 @@
+{
+  "image_idx": 38,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        121,
+        616,
+        176,
+        714
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 47.2512,
+    "gps_lon": 39.8123,
+    "country": "Russia",
+    "timestamp": "2023-09-05T14:20:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-2"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "Multiple aircraft are visible in the imagery. Given the context of monitoring for military activity and the presence of multiple aircraft, it is reasonable to assess this as a potential military activity. The location within Russia further supports this assessment. While the specific type of aircraft is unknown, their presence warrants a moderate threat score."
+}

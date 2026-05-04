@@ -1,0 +1,45 @@
+{
+  "image_idx": 163,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        446,
+        290,
+        534,
+        416
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        369,
+        350,
+        464,
+        444
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.8234,
+    "gps_lon": 38.1256,
+    "country": "Ukraine",
+    "timestamp": "2024-03-01T12:30:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts two tanks operating in a field within Ukraine. Tanks are inherently military assets, and their presence indicates potential military activity. The location within Ukraine, combined with the timestamp, suggests a possible connection to ongoing conflict or military exercises. The high score reflects the unambiguous identification of military hardware and the sensitive geopolitical context."
+}

@@ -1,0 +1,32 @@
+{
+  "image_idx": 0,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        334,
+        441,
+        422,
+        539
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.4512,
+    "gps_lon": 37.8123,
+    "country": "Ukraine",
+    "timestamp": "2023-04-10T12:00:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "18+; \u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle, in a likely combat zone within Ukraine. The presence of text identifying a military battalion and brigade further supports this assessment. The visible smoke suggests recent or ongoing military activity. The '18+' label suggests potentially graphic content, consistent with a conflict environment."
+}

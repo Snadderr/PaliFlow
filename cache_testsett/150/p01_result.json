@@ -1,0 +1,22 @@
+{
+  "exif": null,
+  "ocr_text": null,
+  "logos": null,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        372,
+        290,
+        506,
+        406
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ]
+}

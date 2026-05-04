@@ -1,0 +1,26 @@
+{
+  "image_idx": 161,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.7412,
+    "gps_lon": 38.0512,
+    "country": "Ukraine",
+    "timestamp": "2024-03-05T10:45:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The image depicts a civilian vehicle overturned in a field. No military equipment or personnel are visible. The location is within Ukraine, but the scene itself does not indicate any immediate military threat or activity. The imagery appears to be documenting an accident, not a military operation."
+}

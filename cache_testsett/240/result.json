@@ -1,0 +1,32 @@
+{
+  "image_idx": 240,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        190,
+        588,
+        411,
+        892
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.5123,
+    "gps_lon": 37.9845,
+    "country": "Ukraine",
+    "timestamp": "2023-07-15T14:30:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank actively firing, indicated by the muzzle flash and smoke plume. This demonstrates ongoing military activity and represents a direct military threat. The location within Ukraine further supports this assessment, given the ongoing conflict."
+}

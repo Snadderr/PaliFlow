@@ -1,0 +1,32 @@
+{
+  "image_idx": 123,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        55,
+        150,
+        852,
+        812
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 49.8397,
+    "gps_lon": 24.0297,
+    "country": "Poland",
+    "timestamp": "2023-08-10T15:00:00+03:00",
+    "camera_make": "Apple",
+    "camera_model": "iPhone 14 Pro"
+  },
+  "ocr_text": "54500 (Vehicle registration/identification); 40 (Tactical marking/identifier)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle. Its presence suggests potential military activity, though the context of the image (static display, training exercise, etc.) is unknown. The location in Poland, combined with the presence of a military asset, warrants a moderate threat score. The visible tactical marking '40' and vehicle registration '54500' suggest it is an active military vehicle and not a museum piece."
+}

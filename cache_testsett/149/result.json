@@ -1,0 +1,32 @@
+{
+  "image_idx": 149,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        386,
+        382,
+        470,
+        486
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.5122,
+    "gps_lon": 38.0145,
+    "country": "Ukraine",
+    "timestamp": "2023-04-15T10:00:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "\u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank on a road, indicating military activity. The presence of text identifying a battalion and brigade further confirms a military context. The location within Ukraine and recent timestamp suggest potential ongoing conflict or military operations. The tank represents a significant military asset and therefore constitutes a threat."
+}

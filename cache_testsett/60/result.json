@@ -1,0 +1,27 @@
+{
+  "image_idx": 60,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        404,
+        287,
+        495,
+        392
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "country": "Ukraine"
+  },
+  "ocr_text": "103rd Territorial Brigade (Unit designation); The Sun (Media watermark); \u0421\u041f\u0406\u041b\u042c\u041d\u041e\u0422\u0410 \u0421\u0422\u0415\u0420\u041d\u0415\u041d\u041a\u0410 (Sternenko Community); The Kamikaze drones successfully destroy enemy armored and cargo vehicles and electronic warfare equipment by crashing into them at speed. (News ticker); RUSORIZ_6548 (Unit designation/Handle)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle, within a Ukrainian context. The accompanying text explicitly states the destruction of enemy armored vehicles by kamikaze drones, further reinforcing the military significance of the imagery. The presence of unit designations and media watermarks suggests active reporting of military operations."
+}

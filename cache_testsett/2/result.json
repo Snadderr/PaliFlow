@@ -1,0 +1,21 @@
+{
+  "image_idx": 2,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "country": "Turkey"
+  },
+  "ocr_text": "USA TODAY (Media watermark); AP (Media watermark)",
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The imagery depicts significant damage to a civilian urban area, likely resulting from a natural disaster or other non-military event. No military objects or activity are visible. The presence of 'USA TODAY' and 'AP' watermarks indicates the image originates from civilian news sources, further supporting a non-military assessment."
+}

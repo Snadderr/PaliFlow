@@ -1,0 +1,32 @@
+{
+  "image_idx": 174,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        376,
+        483,
+        488,
+        738
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.9123,
+    "gps_lon": 38.1234,
+    "country": "Ukraine",
+    "timestamp": "2024-02-18T11:00:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank emitting smoke, indicating it has likely been disabled or destroyed. This represents a direct military engagement and a potential threat, even if the tank is currently non-operational. The location within Ukraine further supports this assessment, given the ongoing conflict."
+}

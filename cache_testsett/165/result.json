@@ -1,0 +1,32 @@
+{
+  "image_idx": 165,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        404,
+        357,
+        530,
+        434
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.1456,
+    "gps_lon": 37.8123,
+    "country": "Ukraine",
+    "timestamp": "2023-11-10T14:15:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "Zenmuse H20T"
+  },
+  "ocr_text": "VOG-25 RUSSIAN (Unit/Weaponry designation); 1,0x (Optical zoom indicator); AF (Auto-focus indicator)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank in a field, with visible smoke suggesting recent or ongoing military activity. The text 'VOG-25 RUSSIAN' further indicates a military context, likely identifying the weapon used or the originating unit. The presence of a tank constitutes a significant military threat, justifying a high threat score."
+}

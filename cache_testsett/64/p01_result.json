@@ -1,0 +1,22 @@
+{
+  "exif": null,
+  "ocr_text": "PpocincenkKkux\n\nA\ni.\nA)\ni)\n~\nep\nls\nQa\noo\n0)\na\n\nfi\niS\na\nx\nBs\n\\)\nFk",
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        12,
+        332,
+        660,
+        536
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

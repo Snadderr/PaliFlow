@@ -1,0 +1,30 @@
+{
+  "image_idx": 171,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        379,
+        374,
+        470,
+        539
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.1234,
+    "gps_lon": 37.8456,
+    "country": "Ukraine",
+    "timestamp": "2024-04-01T19:20:00+03:00"
+  },
+  "ocr_text": "AIR (HUD indicator)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts a tank in a field, indicating military activity. The aerial perspective suggests potential reconnaissance or targeting operations. The location within Ukraine, combined with the presence of military hardware, elevates the threat level. While the image doesn't reveal intent, the presence of a tank is inherently a military threat."
+}

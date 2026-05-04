@@ -1,0 +1,26 @@
+{
+  "image_idx": 113,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 44.6812,
+    "gps_lon": 34.1245,
+    "country": "Russia",
+    "timestamp": "2023-08-22T09:30:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-3"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The image depicts an airfield with numerous aircraft parked in a patterned arrangement. While the aircraft appear to be military in design, the overall context and lack of any observable military activity (e.g., arming, fueling, active taxiing) suggest a non-threatening posture. The arrangement of the aircraft could be for storage or maintenance, and does not indicate imminent military action. Given the OSINT collection pipeline's focus on *activity*, the static nature of the scene leads to a low threat assessment."
+}

@@ -1,0 +1,32 @@
+{
+  "image_idx": 150,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        372,
+        290,
+        506,
+        406
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 47.2512,
+    "gps_lon": 39.8123,
+    "country": "Russia",
+    "timestamp": "2023-07-22T12:15:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "Zenmuse H20T"
+  },
+  "ocr_text": "\u0412\u041e\u0415\u041d\u041d\u0410\u042f \u0425\u0420\u041e\u041d\u0418\u041a\u0410 (Military Chronicle - Media watermark)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts an aircraft on what appears to be an airfield runway. Given the context of monitoring for military activity in Russia, and the presence of an aircraft, this is assessed as a military object. The 'Military Chronicle' watermark further supports this assessment. While the specific type of aircraft is unknown, its presence on an airfield suggests potential military use, warranting a moderate threat score."
+}

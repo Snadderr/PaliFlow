@@ -1,0 +1,25 @@
+{
+  "image_idx": 59,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        414,
+        127,
+        520,
+        532
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": null,
+  "ocr_text": "m (Media watermark/Logo); Some bombs miss their targets by a few feet but others score a direct hit, setting fire to one tank. (News ticker)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank, a military object, and the accompanying text indicates it has been directly hit and is on fire. This represents active military engagement and a potential loss of military equipment, thus a significant threat."
+}

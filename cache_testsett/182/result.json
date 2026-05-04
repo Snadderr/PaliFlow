@@ -1,0 +1,45 @@
+{
+  "image_idx": 182,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        411,
+        486,
+        465,
+        608
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        425,
+        228,
+        478,
+        315
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 47.4123,
+    "gps_lon": 35.6123,
+    "country": "Ukraine",
+    "timestamp": "2023-09-20T14:30:00+03:00",
+    "camera_make": "Autel",
+    "camera_model": "EVO II Pro V3"
+  },
+  "ocr_text": "\u0420\u041e\u041d\u0406\u041d\u0418 (Ronins - Unit designation); LXV (Unit designation/65th)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts two tanks, which are inherently military assets. The presence of unit designations ('\u0420\u041e\u041d\u0406\u041d\u0418' and 'LXV') further confirms a military context. The location within Ukraine, combined with the imagery, suggests active military operations or deployment. The aerial perspective indicates potential reconnaissance or targeting activity."
+}

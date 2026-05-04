@@ -1,0 +1,27 @@
+{
+  "image_idx": 7,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        362,
+        347,
+        632,
+        479
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "country": "Ukraine"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank operating in a likely combat zone (Ukraine). The presence of a tank indicates potential for offensive or defensive military operations, representing a significant threat. The crosshairs suggest potential targeting, further elevating the threat level."
+}

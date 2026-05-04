@@ -1,0 +1,26 @@
+{
+  "image_idx": 83,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 60.0125,
+    "gps_lon": 10.6628,
+    "country": "Norway",
+    "timestamp": "2023-06-15T12:30:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The imagery depicts a civilian environment with no visible military equipment or personnel. The objects present appear to be recreational (e.g., a picnic setup) and associated with general civilian activity. The location is a roadside area with vegetation, consistent with a non-military setting. Therefore, the image does not indicate any military threat."
+}

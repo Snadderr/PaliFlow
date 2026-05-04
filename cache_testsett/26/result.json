@@ -1,0 +1,26 @@
+{
+  "image_idx": 26,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.1426,
+    "gps_lon": 37.7658,
+    "country": "Ukraine",
+    "timestamp": "2024-01-20T09:15:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The imagery depicts a vehicle traveling along a road in a snowy, rural environment. No military equipment or personnel are visible. The location is within Ukraine, but the observed activity does not indicate any immediate military threat."
+}

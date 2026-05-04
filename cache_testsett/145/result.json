@@ -1,0 +1,71 @@
+{
+  "image_idx": 145,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        606,
+        508,
+        741,
+        696
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        762,
+        508,
+        890,
+        686
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        285,
+        518,
+        418,
+        700
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        446,
+        518,
+        590,
+        696
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 44.7712,
+    "gps_lon": 39.9234,
+    "country": "Russia",
+    "timestamp": "2023-08-12T11:45:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-3"
+  },
+  "ocr_text": "Image \u00a9 2013 DigitalGlobe (Media watermark)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts four military aircraft. While the specific type is not determinable from this view, the presence of multiple fixed-wing aircraft at what appears to be an airfield constitutes a potential military activity and therefore a threat. The high resolution of the imagery (Maxar WorldView-3) and recent timestamp (2023-08-12) further elevate the concern."
+}

@@ -1,0 +1,32 @@
+{
+  "image_idx": 166,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        117,
+        280,
+        222,
+        399
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 47.5123,
+    "gps_lon": 35.6412,
+    "country": "Ukraine",
+    "timestamp": "2023-06-20T09:45:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "t.me/escadrone (Social media handle); \u0421\u043f\u043e\u043d\u0441\u043e\u0440 \u0443\u0440\u0430\u0436\u0435\u043d\u043d\u044f: \u0421\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0430 \u0421.\u0421\u0442\u0435\u0440\u043d\u0435\u043d\u043a\u0430 (Sponsor of the strike: S. Sternenko Community - News ticker)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank at a road intersection within Ukraine. Tanks are inherently military assets, and their presence indicates potential for offensive or defensive military operations. The context of the ongoing conflict in Ukraine further elevates the threat level. The text overlay referencing a 'sponsor of the strike' suggests this imagery is related to active combat or targeting."
+}

@@ -1,0 +1,16 @@
+{
+  "exif": null,
+  "ocr_text": "BATAMBIIOHK:2 \u0432\u043e\u043d\u0438\n\n\u0437\u0435\u0439 tL) ieee",
+  "logos": null,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ]
+}

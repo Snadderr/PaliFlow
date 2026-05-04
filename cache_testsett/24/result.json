@@ -1,0 +1,32 @@
+{
+  "image_idx": 24,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        400,
+        452,
+        439,
+        490
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.8055,
+    "gps_lon": 38.1562,
+    "country": "Ukraine",
+    "timestamp": "2024-03-12T10:30:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "18+; \u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "A tank is clearly visible in the image, indicating military activity. The presence of unit identifiers ('\u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2', '54 \u041e\u041c\u0411\u0420') further confirms a military context. The location within Ukraine and recent timestamp suggest current operational relevance, elevating the threat level."
+}

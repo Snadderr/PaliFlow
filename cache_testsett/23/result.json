@@ -1,0 +1,45 @@
+{
+  "image_idx": 23,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        26,
+        343,
+        176,
+        598
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        240,
+        49,
+        418,
+        251
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.6123,
+    "gps_lon": 38.0124,
+    "country": "Ukraine",
+    "timestamp": "2023-08-15T14:20:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "Newsflash (Media watermark); \u0411\u041c\u041f-1 (BMP-1 - Unit/Vehicle designation); The Sun (Media watermark)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts two tanks, which are inherently military assets. The presence of these vehicles, coupled with the location within Ukraine (a current conflict zone), indicates a potential military threat. The visible marking '\u0411\u041c\u041f-1' suggests a specific armored personnel carrier, further reinforcing the military nature of the observed objects. The imagery suggests active military presence and potential for offensive or defensive operations."
+}

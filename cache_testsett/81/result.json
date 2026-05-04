@@ -1,0 +1,32 @@
+{
+  "image_idx": 81,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        394,
+        154,
+        548,
+        434
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.7124,
+    "gps_lon": 37.9512,
+    "country": "Ukraine",
+    "timestamp": "2023-11-20T14:05:00+02:00",
+    "camera_make": "Autel",
+    "camera_model": "EVO Max 4T"
+  },
+  "ocr_text": "18+; \u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank operating in a wooded area within Ukraine. The presence of a tank, coupled with the visible text identifying a Ukrainian military battalion and brigade, indicates active military activity and represents a significant threat. The terrain suggests potential for offensive or defensive operations."
+}

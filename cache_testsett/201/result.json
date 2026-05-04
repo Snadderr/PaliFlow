@@ -1,0 +1,27 @@
+{
+  "image_idx": 201,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        436,
+        399,
+        484,
+        536
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "country": "Ukraine"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "A tank is clearly visible in the imagery, and given the country metadata is Ukraine, this represents a potential military threat. The tank is within a targeting reticle, suggesting active observation or potential engagement. The presence of a tank in a conflict zone warrants a high threat score."
+}

@@ -1,0 +1,32 @@
+{
+  "image_idx": 64,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        12,
+        332,
+        660,
+        536
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.1426,
+    "gps_lon": 37.7658,
+    "country": "Ukraine",
+    "timestamp": "2023-11-05T13:10:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "\u0415\u041f\u0406\u0427\u041d\u0418\u0419 \u0420\u041e\u0417\u0413\u0420\u041e\u041c \u0420\u041e\u0421\u0406\u042f\u041d \u041d\u0410 \u0414\u041e\u041d\u0415\u0427\u0427\u0418\u041d\u0406 (Epic rout of Russians in the Donetsk region - News ticker); \u043d\u0435 \u0432\u0440\u044f\u0442\u0443\u0432\u0430\u043b\u0430 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0445 \u0442\u0430\u043d\u043a\u0456\u0441\u0442\u0456\u0432... (did not save Russian tank crews... - News ticker)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts a destroyed tank in a combat zone within Ukraine (Donetsk region, as indicated by the metadata and text). The presence of a destroyed military vehicle indicates active hostilities and a potential threat to ongoing operations. The text suggests a Russian vehicle was destroyed, further indicating a military engagement."
+}

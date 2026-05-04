@@ -1,0 +1,61 @@
+{
+  "exif": null,
+  "ocr_text": null,
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        173,
+        336,
+        590,
+        570
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        57,
+        140,
+        456,
+        364
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        464,
+        483,
+        832,
+        728
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        530,
+        196,
+        806,
+        360
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

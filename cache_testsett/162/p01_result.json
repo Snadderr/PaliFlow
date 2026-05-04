@@ -1,0 +1,48 @@
+{
+  "exif": null,
+  "ocr_text": null,
+  "logos": null,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        512,
+        301,
+        730,
+        518
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        268,
+        308,
+        484,
+        581
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        460,
+        514,
+        684,
+        749
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ]
+}

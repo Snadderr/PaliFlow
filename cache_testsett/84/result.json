@@ -1,0 +1,45 @@
+{
+  "image_idx": 84,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        422,
+        382,
+        481,
+        462
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        247,
+        315,
+        302,
+        360
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.6012,
+    "gps_lon": 37.9541,
+    "country": "Ukraine",
+    "timestamp": "2023-11-05T09:20:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "18+; T-72 \"\u041a\u041e\u041d\u0406\u0412\u041d\u0418\u041a\" (T-72 \"Groom/Horseman\"); T-72 \"\u0421\u041e\u041a\u0406\u041b\" (T-72 \"Falcon\"); \u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts two tanks, identified as T-72s, operating in a field. The presence of tanks, along with the identified battalion and brigade markings, indicates active military activity and represents a significant potential threat. The location within Ukraine further supports this assessment, given the ongoing conflict."
+}

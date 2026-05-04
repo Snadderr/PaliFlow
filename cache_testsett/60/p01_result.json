@@ -1,0 +1,22 @@
+{
+  "exif": null,
+  "ocr_text": "canna b i ak ss\n\u2014e . 11\nal Pe Nate\nc Ta Pea\nDe Hh La ie HH ; CHINDHOTA\n. ti dy |] >t CTEPHENKA\n\nital\n\nees successfully destroy enemy\nPT EU UE GUC\nequipment by crashing into them at speed,\n\nST ree):",
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        404,
+        287,
+        495,
+        392
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

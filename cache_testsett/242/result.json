@@ -1,0 +1,32 @@
+{
+  "image_idx": 242,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        408,
+        301,
+        744,
+        679
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.2145,
+    "gps_lon": 37.9812,
+    "country": "Ukraine",
+    "timestamp": "2024-05-12T09:15:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle, in a field setting with personnel nearby. The presence of a tank and associated personnel indicates potential military activity and represents a credible threat. The location within Ukraine further supports this assessment given the ongoing conflict."
+}

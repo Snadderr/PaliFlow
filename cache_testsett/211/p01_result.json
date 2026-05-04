@@ -1,0 +1,16 @@
+{
+  "exif": null,
+  "ocr_text": null,
+  "logos": null,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ]
+}

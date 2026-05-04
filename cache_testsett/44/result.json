@@ -1,0 +1,32 @@
+{
+  "image_idx": 44,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        296,
+        458,
+        502,
+        504
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.8123,
+    "gps_lon": 38.1154,
+    "country": "Ukraine",
+    "timestamp": "2023-08-15T14:30:00+03:00",
+    "camera_make": "Autel",
+    "camera_model": "EVO Max 4T"
+  },
+  "ocr_text": "18+; \u0421\u041f\u0406\u041b\u042c\u041d\u041e\u0422\u0410 \u0421\u0422\u0415\u0420\u041d\u0415\u041d\u041a\u0410 (Sternenko Community); \u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle, operating in a field. The presence of the tank, coupled with text identifying a military battalion (K-2 Battalion) and brigade (54th Separate Mechanized Brigade), indicates ongoing military activity. The location within Ukraine further supports this assessment. While the image doesn't show active engagement, the presence of a tank represents a potential military threat."
+}

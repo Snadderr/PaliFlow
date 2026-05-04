@@ -1,0 +1,26 @@
+{
+  "image_idx": 92,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 52.6355,
+    "gps_lon": 39.4421,
+    "country": "Russia",
+    "timestamp": "2023-08-20T10:00:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-3"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The imagery shows an industrial and commercial area with no visible military equipment, personnel, or activity. The presence of what appears to be an aircraft on the ground does not indicate military activity without further information, and is likely civilian in nature. The location is within Russia, but the image itself does not present any immediate military threat."
+}

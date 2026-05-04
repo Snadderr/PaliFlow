@@ -1,0 +1,22 @@
+{
+  "exif": null,
+  "ocr_text": "\u0421\u043f\u043e\u043d\u0441\u043e\u0440\n\u0426\u0415\u0419\n\u0440 4 \u0442",
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        117,
+        280,
+        222,
+        399
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

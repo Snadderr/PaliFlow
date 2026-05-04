@@ -1,0 +1,26 @@
+{
+  "image_idx": 80,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 60.0125,
+    "gps_lon": 10.6628,
+    "country": "Norway",
+    "timestamp": "2023-10-14T13:45:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The imagery depicts a natural landscape with a person visible. No military equipment, personnel, or activity is apparent. The location is in Norway, and the image source is a consumer-grade drone, suggesting routine civilian activity rather than military operations."
+}

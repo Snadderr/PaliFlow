@@ -1,0 +1,26 @@
+{
+  "image_idx": 79,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.7891,
+    "gps_lon": 38.2345,
+    "country": "Ukraine",
+    "timestamp": "2023-10-22T16:05:00+03:00",
+    "camera_make": "Autel",
+    "camera_model": "EVO II Pro V3"
+  },
+  "ocr_text": "\u0411\u0410\u0422\u0410\u041b\u042c\u0419\u041e\u041d \u041a-2 (K-2 Battalion); 54 \u041e\u041c\u0411\u0420 (54th Separate Mechanized Brigade)",
+  "classification": "Non-Threat",
+  "threat_score": 2,
+  "assessment_reasoning": "The imagery depicts a landscape with evidence of recent activity, potentially related to military operations given the text overlay identifying 'K-2 Battalion' and '54th Separate Mechanized Brigade'. However, no military objects (vehicles, equipment, personnel) are directly visible in the image. The presence of smoke suggests recent activity, but it is not possible to determine the nature of that activity from this single image. Therefore, the threat is assessed as low."
+}

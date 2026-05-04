@@ -1,0 +1,32 @@
+{
+  "image_idx": 190,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        404,
+        371,
+        469,
+        536
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 47.8123,
+    "gps_lon": 36.9456,
+    "country": "Ukraine",
+    "timestamp": "2023-09-12T15:20:00+03:00",
+    "camera_make": "Autel",
+    "camera_model": "EVO II Pro V3"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank within a prepared defensive position, including trenches. This indicates active military activity and a potential threat. The tank's presence and the surrounding fortifications suggest a deliberate military posture, warranting a high threat score."
+}

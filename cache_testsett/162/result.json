@@ -1,0 +1,58 @@
+{
+  "image_idx": 162,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        512,
+        301,
+        730,
+        518
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        268,
+        308,
+        484,
+        581
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        460,
+        514,
+        684,
+        749
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 52.6355,
+    "gps_lon": 39.4421,
+    "country": "Russia",
+    "timestamp": "2023-10-12T09:30:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-2"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly shows three large military transport aircraft parked on a prepared surface. While the specific type is not immediately identifiable, the size and configuration are consistent with military cargo planes. Their presence at this location suggests potential military logistical activity, warranting a moderate threat assessment."
+}

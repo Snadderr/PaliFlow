@@ -1,0 +1,26 @@
+{
+  "image_idx": 72,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 46.6412,
+    "gps_lon": 32.6123,
+    "country": "Ukraine",
+    "timestamp": "2023-10-15T13:45:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "Zenmuse H20T"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 2,
+  "assessment_reasoning": "The imagery depicts a civilian area with residential buildings and surrounding vegetation. An explosion is visible, but there are no identifiable military objects or activities present. The location is within Ukraine, a current conflict zone, but the image itself does not demonstrate any immediate military threat."
+}

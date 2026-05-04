@@ -1,0 +1,32 @@
+{
+  "image_idx": 146,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        213,
+        290,
+        488,
+        518
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.2134,
+    "gps_lon": 37.9456,
+    "country": "Ukraine",
+    "timestamp": "2024-03-05T09:40:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts tanks, which are military vehicles. The presence of tanks indicates potential military activity and represents a significant threat. The tanks appear to be operating in a potentially contested environment, as evidenced by the smoke and muddy terrain, further elevating the threat level."
+}

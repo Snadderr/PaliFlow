@@ -1,0 +1,48 @@
+{
+  "exif": null,
+  "ocr_text": "Stine",
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        428,
+        357,
+        568,
+        458
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        446,
+        251,
+        516,
+        301
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        374,
+        178,
+        414,
+        208
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "image_idx": 153,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        244,
+        441,
+        620,
+        626
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.3123,
+    "gps_lon": 37.9123,
+    "country": "Ukraine",
+    "timestamp": "2023-07-15T20:15:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "\u0412\u041e\u0415\u041d\u041d\u0410\u042f \u0425\u0420\u041e\u041d\u0418\u041a\u0410 (Military Chronicle - Media watermark); @MILCHRONICLES (Social media handle)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle, positioned in a field. The presence of a tank indicates potential military activity and represents a credible threat. The location within Ukraine, combined with the timestamp, suggests this may be related to ongoing conflict. The media watermark and social media handle suggest the image originates from a source focused on military reporting, further supporting the assessment of military significance."
+}

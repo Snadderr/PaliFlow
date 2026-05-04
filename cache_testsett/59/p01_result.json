@@ -1,0 +1,22 @@
+{
+  "exif": null,
+  "ocr_text": "Some bombs miss their targets by a few feet but others\n\nscore a direct hit, setting fire to one tank.",
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        414,
+        127,
+        520,
+        532
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

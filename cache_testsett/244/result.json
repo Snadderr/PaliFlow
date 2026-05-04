@@ -1,0 +1,32 @@
+{
+  "image_idx": 244,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        422,
+        290,
+        481,
+        511
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.1426,
+    "gps_lon": 37.7658,
+    "country": "Ukraine",
+    "timestamp": "2024-02-10T11:15:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle, actively firing its main gun. The presence of a tank in an active firing position indicates ongoing military activity and represents a direct threat. The location within Ukraine further supports this assessment given the ongoing conflict."
+}

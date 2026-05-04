@@ -1,0 +1,32 @@
+{
+  "image_idx": 156,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        334,
+        196,
+        464,
+        384
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 45.1245,
+    "gps_lon": 33.9123,
+    "country": "Russia",
+    "timestamp": "2023-06-10T11:20:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-3"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts a military aircraft on what appears to be an airfield or military base. The aircraft's presence in this context, combined with the high-resolution imagery from Maxar WorldView-3, indicates a potential military activity and warrants a moderate threat assessment."
+}

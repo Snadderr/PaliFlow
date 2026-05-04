@@ -1,0 +1,26 @@
+{
+  "image_idx": 237,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.6123,
+    "gps_lon": 38.2145,
+    "country": "Ukraine",
+    "timestamp": "2023-07-25T14:45:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "\u0411\u0410\u0420\u041a\u0410\u0421 (Barkas - Unit/Textual Identifier)",
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The image depicts what appears to be the exterior of a vehicle or structure with the word \"\u0411\u0410\u0420\u041a\u0410\u0421\" visible. No military objects or equipment are identifiable in the image. The location within Ukraine does not automatically indicate a military threat. Therefore, the image is assessed as non-threatening."
+}

@@ -1,0 +1,32 @@
+{
+  "image_idx": 71,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        320,
+        308,
+        450,
+        462
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 48.9123,
+    "gps_lon": 38.1245,
+    "country": "Ukraine",
+    "timestamp": "2024-02-12T09:45:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "Zenmuse H20T"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank operating in a likely conflict zone within Ukraine. The presence of a tank indicates potential military activity and represents a credible threat. The terrain suggests possible maneuver or defensive positioning. The high-resolution imagery and recent timestamp further support the assessment of current military relevance."
+}

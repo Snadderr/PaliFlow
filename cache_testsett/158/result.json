@@ -1,0 +1,32 @@
+{
+  "image_idx": 158,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        369,
+        275,
+        506,
+        626
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 49.0123,
+    "gps_lon": 38.2456,
+    "country": "Ukraine",
+    "timestamp": "2024-01-15T10:50:00+02:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tank within Ukrainian territory. This indicates potential military activity and represents a credible threat, even without knowing the tank's specific function or allegiance. The presence of a tank in this context warrants a high threat score."
+}

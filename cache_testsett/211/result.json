@@ -1,0 +1,19 @@
+{
+  "image_idx": 211,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": null,
+  "ocr_text": "LOW BATTERY (Status indicator)",
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The image depicts a natural environment with a reptile on a rock or log. No military objects or activity are visible. The 'LOW BATTERY' indicator suggests the image is from a personal device, further supporting a non-threat assessment."
+}

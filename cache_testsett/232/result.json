@@ -1,0 +1,32 @@
+{
+  "image_idx": 232,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        55,
+        290,
+        806,
+        686
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 51.5072,
+    "gps_lon": -0.1276,
+    "country": "England",
+    "timestamp": "2023-08-15T13:10:00+01:00",
+    "camera_make": "Canon",
+    "camera_model": "EOS 5D Mark IV"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 6,
+  "assessment_reasoning": "The image clearly depicts a tank, a military vehicle. While the tank appears to be static and on display, its presence indicates a potential military asset or memorial. The location within England, a country with active military forces, further supports a threat assessment, albeit a low to moderate one given the apparent non-operational status of the vehicle."
+}

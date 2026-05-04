@@ -1,0 +1,26 @@
+{
+  "image_idx": 17,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 51.4821,
+    "gps_lon": 46.2115,
+    "country": "Russia",
+    "timestamp": "2023-07-20T10:15:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-3"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The image depicts a basketball court with markings and a backboard. No military equipment or activity is visible. The location is within Russia, but the observed objects are civilian in nature and pose no discernible threat."
+}

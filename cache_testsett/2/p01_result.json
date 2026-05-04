@@ -1,0 +1,16 @@
+{
+  "exif": null,
+  "ocr_text": "USA |\nTODAY\n\n \n         \n\n\u044f?\n\n\u043a\u043e ap\n\nio\nell \u0438 \u043a We \u0413:\npe \u0438 \u0436\u0435 \u00ab\u0440\u0435 \u2018Sem",
+  "logos": null,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ]
+}

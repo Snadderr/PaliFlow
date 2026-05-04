@@ -1,0 +1,58 @@
+{
+  "image_idx": 236,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        428,
+        357,
+        568,
+        458
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        446,
+        251,
+        516,
+        301
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        374,
+        178,
+        414,
+        208
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 31.2541,
+    "gps_lon": 34.8123,
+    "country": "Israel",
+    "timestamp": "2023-10-15T14:00:00+03:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": "TECH ULTIMATE (Media watermark)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "The image clearly depicts three tanks operating in an open area within Israel. Tanks are inherently military assets, and their movement suggests potential military activity or training. The presence of multiple tanks elevates the potential threat level, indicating a coordinated operation rather than isolated activity. While the specific purpose is unknown, the imagery confirms a military presence and activity."
+}

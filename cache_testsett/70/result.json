@@ -1,0 +1,45 @@
+{
+  "image_idx": 70,
+  "detections": [
+    {
+      "label": "AirCraft",
+      "box": [
+        166,
+        280,
+        271,
+        360
+      ]
+    },
+    {
+      "label": "AirCraft",
+      "box": [
+        572,
+        578,
+        716,
+        654
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft",
+      "detected": true
+    },
+    {
+      "label": "AirCraft",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 51.4821,
+    "gps_lon": 46.2115,
+    "country": "Russia",
+    "timestamp": "2023-07-20T10:15:00+03:00",
+    "camera_make": "Maxar",
+    "camera_model": "WorldView-3"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts two large military aircraft parked on what appears to be a military airfield. The presence of these aircraft, combined with the airfield infrastructure, indicates a potential military threat. The aircraft are likely strategic assets given their size and location."
+}

@@ -1,0 +1,25 @@
+{
+  "image_idx": 6,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        511,
+        406,
+        782,
+        672
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": null,
+  "ocr_text": "Newsflash (Media watermark); \u0411\u041c\u0414 4 (BMD-4 - Unit/Vehicle designation); 3x (Optical zoom indicator); -90\u00b0 (Angle indicator); AF (Auto-focus indicator); The Sun (Media watermark)",
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts a tracked, armored fighting vehicle, identified as a BMD-4 based on the visible text. This vehicle is a military asset, indicating potential military activity. The presence of targeting reticles and zoom indicators suggests active observation or engagement, elevating the threat level."
+}

@@ -1,0 +1,32 @@
+{
+  "image_idx": 55,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        432,
+        626,
+        544,
+        749
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 47.8512,
+    "gps_lon": 36.9123,
+    "country": "Ukraine",
+    "timestamp": "2024-01-25T11:30:00+02:00",
+    "camera_make": "Autel",
+    "camera_model": "EVO II Pro V3"
+  },
+  "ocr_text": "13 kanal (Media watermark)",
+  "classification": "Threat",
+  "threat_score": 7,
+  "assessment_reasoning": "A tank is clearly visible in the imagery, indicating military activity. The location within Ukraine and the current geopolitical context further elevate the threat level. While the image doesn't provide details on the tank's intent or operational status, the presence of a tank constitutes a significant military observation."
+}

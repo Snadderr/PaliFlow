@@ -1,0 +1,26 @@
+{
+  "image_idx": 128,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 60.1245,
+    "gps_lon": 10.5123,
+    "country": "Norway",
+    "timestamp": "2023-06-12T14:20:00+02:00",
+    "camera_make": "Apple",
+    "camera_model": "iPhone 14 Pro"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The imagery depicts a rocky, vegetated landscape in Norway. No military equipment, personnel, or installations are visible. The scene appears to be a natural environment with no indication of military activity. The image source is a consumer-grade mobile phone, further suggesting non-military origin."
+}

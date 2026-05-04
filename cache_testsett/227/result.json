@@ -1,0 +1,26 @@
+{
+  "image_idx": 227,
+  "detections": [],
+  "heatmaps_meta": [
+    {
+      "label": "AirCraft (not detected)",
+      "detected": false
+    },
+    {
+      "label": "Tank (not detected)",
+      "detected": false
+    }
+  ],
+  "exif": {
+    "gps_lat": 60.1245,
+    "gps_lon": 10.5123,
+    "country": "Norway",
+    "timestamp": "2024-01-20T12:00:00+01:00",
+    "camera_make": "DJI",
+    "camera_model": "FC3582"
+  },
+  "ocr_text": null,
+  "classification": "Non-Threat",
+  "threat_score": 1,
+  "assessment_reasoning": "The imagery depicts a snow-covered landscape with trees and a possible road or path. No military equipment, personnel, or installations are visible. The location is in Norway, but the scene appears entirely civilian in nature. The image is consistent with normal winter conditions and does not indicate any military activity."
+}

@@ -1,0 +1,22 @@
+{
+  "exif": null,
+  "ocr_text": ";\n\nmeee LY: sie\n\n\u201cBATATIOH coed A |\n\n\\\n\na\n1",
+  "logos": null,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        334,
+        441,
+        422,
+        539
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ]
+}

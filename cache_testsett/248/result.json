@@ -1,0 +1,71 @@
+{
+  "image_idx": 248,
+  "detections": [
+    {
+      "label": "Tank",
+      "box": [
+        173,
+        336,
+        590,
+        570
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        57,
+        140,
+        456,
+        364
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        464,
+        483,
+        832,
+        728
+      ]
+    },
+    {
+      "label": "Tank",
+      "box": [
+        530,
+        196,
+        806,
+        360
+      ]
+    }
+  ],
+  "heatmaps_meta": [
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    },
+    {
+      "label": "Tank",
+      "detected": true
+    }
+  ],
+  "exif": {
+    "gps_lat": 47.9542,
+    "gps_lon": 36.5412,
+    "country": "Ukraine",
+    "timestamp": "2023-09-05T16:45:00+03:00",
+    "camera_make": "Autel",
+    "camera_model": "EVO II Pro V3"
+  },
+  "ocr_text": null,
+  "classification": "Threat",
+  "threat_score": 8,
+  "assessment_reasoning": "The image clearly depicts four tanks in a field within Ukraine. Tanks are inherently military assets, and their presence indicates potential military activity or preparation. The location within Ukraine, a current conflict zone, further elevates the threat level. The aerial perspective suggests potential reconnaissance or positioning for operations."
+}
